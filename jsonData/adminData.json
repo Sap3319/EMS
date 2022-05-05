@@ -12,7 +12,31 @@
       "email": "ajay@gmail.com",
       "password": "1234",
       "id": 2,
-      "isLoggedIn": true
+      "isLoggedIn": false
+    },
+    {
+      "name": "Soham",
+      "email": "soham@gmail.com",
+      "id": 3,
+      "isLoggedIn": false
+    },
+    {
+      "name": "Sabarno",
+      "email": "sab@gmail.com",
+      "id": 4,
+      "isLoggedIn": false
+    },
+    {
+      "name": "SAPTARSHI ROY",
+      "email": "saptarshi@gmail.com",
+      "id": 5,
+      "isLoggedIn": false
+    },
+    {
+      "name": "Rishav",
+      "email": "rishav@gmail.com",
+      "id": 6,
+      "isLoggedIn": false
     }
   ]
 }
